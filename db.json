@@ -1,0 +1,49 @@
+{
+  "mascotas": [
+    {
+    "nChip":"657612097604302",
+    "nombre":"Pelusa",
+    "especie":"Perro",
+    "sexo":"hembra",
+    "raza":"Collie",
+    "color":"Blanco",
+    "fecha_nac":"23/04/2020",
+    "est_reproductivo":"estirilizado",
+    "residencia":"San Pedro 234, Maipu",
+    "rut_dueño":"12987234-1",
+    "nombre_dueño":"Juan Sanchez Mardones",
+    "telefono":"928212123",
+    "correo":"juanm3@gmail.com"
+    },
+    {
+      "nChip":"890812097404302",
+      "nombre":"Bobby",
+      "especie":"Perro",
+      "sexo":"macho",
+      "raza":"Pastor Aleman",
+      "color":"Negro",
+      "fecha_nac":"17/02/2022",
+      "est_reproductivo":"no estirilizado",
+      "residencia":"Pedro las Casas 876, Recoleta",
+      "rut_dueño":"08987876-5",
+      "nombre_dueño":"Maria San Martin Fuenzalidas",
+      "telefono":"987234675",
+      "correo":"mfuenza343@gmail.com"
+    },
+    {
+      "nChip":"9897612097764302",
+      "nombre":"Princesa",
+      "especie":"Gato",
+      "sexo":"hembra",
+      "raza":"Siames",
+      "color":"Crema",
+      "fecha_nac":"05/12/2018",
+      "est_reproductivo":"estirilizado",
+      "residencia":"Potosì 98, San Miguel",
+      "rut_dueño":"06987654-7",
+      "nombre_dueño":"Miguel Angel Bravo Gonzalez",
+      "telefono":"998967898",
+      "correo":"mbravog@gmail.com"
+    }
+  ]
+}
