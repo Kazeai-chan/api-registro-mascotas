@@ -1,7 +1,7 @@
 {
   "mascotas": [
     {
-    "nChip":"657612097604302",
+    "id":"657612097604302",
     "nombre":"Pelusa",
     "especie":"Perro",
     "sexo":"hembra",
@@ -16,7 +16,7 @@
     "correo":"juanm3@gmail.com"
     },
     {
-      "nChip":"890812097404302",
+      "id":"890812097404302",
       "nombre":"Bobby",
       "especie":"Perro",
       "sexo":"macho",
@@ -31,7 +31,7 @@
       "correo":"mfuenza343@gmail.com"
     },
     {
-      "nChip":"9897612097764302",
+      "id":"9897612097764302",
       "nombre":"Princesa",
       "especie":"Gato",
       "sexo":"hembra",
